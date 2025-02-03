@@ -1,0 +1,1 @@
+web: sh setup.sd && stramlit run app.py
